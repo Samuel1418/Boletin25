@@ -267,6 +267,8 @@ public class Interfaz1 extends javax.swing.JFrame {
 
     private void OK1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_OK1ActionPerformed
     this.setVisible(false);
+    Interfaz2 obx= new Interfaz2();
+    obx.setVisible(true);
     }//GEN-LAST:event_OK1ActionPerformed
 
     private void OKActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_OKActionPerformed
